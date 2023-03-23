@@ -1,2 +1,4 @@
 # sacode-coding-dasar-i-tugas-day04
-sacode-bootstrap 
+
+
+[LIHAT DEMO] (https://ikouropmabin.github.io/sacode-coding-dasar-i-tugas-day04/)
